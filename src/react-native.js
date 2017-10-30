@@ -111,7 +111,7 @@ const ReactNativeAddons = {
   // Perf: require('react-addons-perf'), obsolete
   PureRenderMixin: require('react-addons-pure-render-mixin'),
   TestModule: require('./NativeModules/TestModule'),
-  TestUtils: require('react-addons-test-utils'),
+  // TestUtils: require('react-addons-test-utils'), deprecated
   // TODO(lmr): not sure where to find this
   // batchedUpdates: require('ReactUpdates').batchedUpdates, deprecated
   // cloneWithProps: require('react-addons-clone-with-props'), deprecated
